@@ -15,6 +15,7 @@ var vibe = [
 	'japanese',
 	'disco',
 	'furcoats',
+	'talk with sexy voice',
 	'german/nazi',
 	'miami style',
 	'hawaii',
@@ -97,7 +98,7 @@ var drugs = [
 	'ghb',
 	'red wine',
 	'white wine',
-	'tequila'
+	'tequila',
 	'beer',
 	'hard liquior',
 	'high on life',
