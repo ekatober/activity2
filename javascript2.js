@@ -2,7 +2,7 @@ var vibe = [
 	'80s style',
 	'90s babe style',
 	'playboy house style',
-	'opposity sex dress up',
+	'opposit sex dress up',
 	'weirdo style',
 	'glamour',
 	'beach style',
