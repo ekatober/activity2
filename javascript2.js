@@ -99,7 +99,6 @@ var drugs = [
 	'red wine',
 	'white wine',
 	'tequila',
-	'beer',
 	'hard liquior',
 	'high on life',
 	'sugar',
@@ -109,7 +108,8 @@ var drugs = [
 	'shroom chocolate',
 	'cacao',
 	'dmt',
-	'chamomile tea'
+	'chamomile tea',
+	'beer'
 ]
 
 function newDrugs() {
