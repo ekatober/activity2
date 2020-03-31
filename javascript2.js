@@ -79,7 +79,7 @@ var activity = [
 	'bar hopping',
 	'call mom',
 	'call a friend',
-	'poker/card games',
+	'poker/card games'
 ]
 function newActivity() {
 		var randomNumber = Math.floor(Math.random() * (activity.length));
