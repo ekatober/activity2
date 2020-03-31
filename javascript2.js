@@ -110,7 +110,6 @@ var drugs = [
 	'cacao',
 	'dmt',
 	'chamomile tea'
-
 ]
 
 function newDrugs() {
