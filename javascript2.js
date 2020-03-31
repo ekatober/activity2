@@ -2,7 +2,7 @@ var vibe = [
 	'80s style',
 	'90s babe style',
 	'playboy house style',
-	'reverse situation style',
+	'opposity sex dress up',
 	'weirdo style',
 	'glamour',
 	'beach style',
@@ -23,7 +23,9 @@ var vibe = [
 	'heroin chic style',
 	'burning man style',
 	'mad max style',
-	'50s housewives'
+	'50s housewives',
+	'tin foil hat',
+	'futuristic style'
 
 ]
 
@@ -74,7 +76,9 @@ var activity = [
 	'salt doe sculpting',
 	'smile competition',
 	'bar hopping',
-	'call mom'
+	'call mom',
+	'call a friend',
+	'poker/card games',
 ]
 function newActivity() {
 		var randomNumber = Math.floor(Math.random() * (activity.length));
