@@ -26,7 +26,9 @@ var vibe = [
 	'mad max style',
 	'50s housewives',
 	'tin foil hat',
-	'futuristic style'
+	'futuristic style',
+	'camp style',
+	'animal style'
 
 ]
 
@@ -79,7 +81,12 @@ var activity = [
 	'bar hopping',
 	'call mom',
 	'call a friend',
-	'poker/card games'
+	'poker/card games',
+	'swim in the lake',
+	'6 mile hike',
+	'3 mile hike',
+	'brainstorm',
+	'discussion on taboo topic'
 ]
 function newActivity() {
 		var randomNumber = Math.floor(Math.random() * (activity.length));
@@ -109,7 +116,13 @@ var drugs = [
 	'cacao',
 	'dmt',
 	'chamomile tea',
-	'beer'
+	'beer',
+	'1 edible',
+	'2 edibles',
+	'3 edibles',
+	'salvia',
+	'kratom',
+	'microdosing'
 ]
 
 function newDrugs() {
