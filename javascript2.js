@@ -53,6 +53,7 @@ var activity = [
 	'poetry reading',
 	'fiction club',
 	'figure drawing',
+	'speak english',
 	'breathwork',
 	'guided meditation',
 	'self-forgiving meditation',
