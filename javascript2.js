@@ -64,6 +64,7 @@ var activity = [
 	'beauty salon',
 	'tea party',
 	'picnic',
+	'24 hour fast',
 	'book reading',
 	'breakdance',
 	'qigun',
